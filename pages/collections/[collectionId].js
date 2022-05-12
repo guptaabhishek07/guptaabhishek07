@@ -117,7 +117,7 @@ const Collections = () => {
           src={
             Collections?.bannerImageUrl
               ? Collections.bannerImageUrl
-              : 'https://via.placeholder.com/200'
+              : 'https://cdn.sanity.io/images/txzqca2v/production/0b34884ac90d9c4795bbcd2a9e1b517efcb6641f-600x600.jpg'
           }
           alt="banner"
         />
@@ -129,7 +129,7 @@ const Collections = () => {
             src={
               Collections?.imageUrl
                 ? Collections.imageUrl
-                : 'https://via.placeholder.com/200'
+                : 'https://cdn.sanity.io/images/txzqca2v/production/0b34884ac90d9c4795bbcd2a9e1b517efcb6641f-600x600.jpg'
             }
             alt="profile image"
           />
